@@ -71,6 +71,45 @@ The Agile Methodology was used to plan this project, utilizing GitHub’s Projec
 
 [Back to the top](#top)
 
+## Wireframes
+
+[Back to the top](#top)
+
+Wireframes were created to visualize the layout and user interface of Mindful Vibes. They outline the structure of key pages and the overall user experience.
+
+### Homepage
+
+The homepage wireframe shows the layout of the blog’s main page, including the blog post feed, navigation, and footer.
+
+![Homepage Wireframe](documentation/images/wireframe-homepage.png)
+
+### Post Details Page
+
+This wireframe represents the layout for individual blog posts, including the content area, comments section, and related posts.
+
+![Post Details Wireframe](documentation/images/wireframe-post-details.png)
+
+### About Page
+
+The About page wireframe illustrates how the information about the blog and its mission will be presented.
+
+![About Page Wireframe](documentation/images/wireframe-about.png)
+
+### Admin Dashboard
+
+The admin dashboard wireframe depicts the layout for managing posts and comments, providing an interface for content moderation.
+
+![Admin Dashboard Wireframe](documentation/images/wireframe-admin-dashboard.png)
+
+## Wireframe Details
+
+1. **Homepage**: Features a top navigation bar, a feed of recent blog posts, and a footer with contact information and social media links.
+2. **Post Details Page**: Includes the blog post title, content, author information, and a comments section with the ability to add and view comments.
+3. **About Page**: Contains details about the blog’s purpose, mission, and team, with a clean layout for easy reading.
+4. **Admin Dashboard**: Provides tools for content management, including post creation, editing, deletion, and comment moderation.
+
+The wireframes helped in defining the layout and functionality of the site, ensuring a user-friendly experience.
+
 ### Colours
 
 Mindful Vibes uses a calming color palette to promote a sense of tranquility and relaxation. The primary colors are soft and neutral tones to ensure a soothing user experience. The color scheme includes.
